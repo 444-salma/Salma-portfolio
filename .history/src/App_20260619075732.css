@@ -233,7 +233,7 @@ li:hover {
   color: white;
 }
 
-/* =================================================== */
+//===================================================
 
 .skills-grid {
   display: grid;
@@ -263,7 +263,6 @@ li:hover {
   margin: 8px 0;
   color: #d9d9d9;
 }
-
 .footer {
   text-align: center;
   padding: 50px;

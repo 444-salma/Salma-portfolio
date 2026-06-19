@@ -40,37 +40,16 @@ function App() {
         </section>
 
         <section id="skills">
-          <h2>Technologies</h2>
-
-          <div className="skills-grid">
-            <div className="skill-card">
-              <h3>Frontend</h3>
-              <p>React</p>
-              <p>HTML</p>
-              <p>CSS</p>
-              <p>JavaScript</p>
-            </div>
-
-            <div className="skill-card">
-              <h3>Backend</h3>
-              <p>Node.js</p>
-              <p>Express.js</p>
-            </div>
-
-            <div className="skill-card">
-              <h3>Database</h3>
-              <p>MongoDB</p>
-              <p>MySQL</p>
-            </div>
-
-            <div className="skill-card">
-              <h3>Tools</h3>
-              <p>Git</p>
-              <p>GitHub</p>
-              <p>VS Code</p>
-              <p>Figma</p>
-            </div>
-          </div>
+          <h2>Skills</h2>
+          <ul>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Node.js</li>
+            <li>MongoDB</li>
+            <li>MySQL</li>
+            <li>Git & GitHub</li>
+          </ul>
         </section>
 
         <section id="projects">
