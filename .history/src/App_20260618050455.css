@@ -1,0 +1,30 @@
+.small-title {
+  color: #e7c58b;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.hero h1 {
+  font-size: 90px;
+  line-height: 0.95;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.hero h1 span {
+  color: white;
+}
+
+.hero-text {
+  max-width: 650px;
+  color: #bdbdbd;
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
+}
